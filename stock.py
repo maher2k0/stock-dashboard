@@ -374,7 +374,7 @@ def earnings_calendar():
 
 col3.subheader('Earnings Calendar')
 col3.dataframe(earnings_calendar())
-col3.checkbox('Generate')
+
 
 
 #--------------------------------#
